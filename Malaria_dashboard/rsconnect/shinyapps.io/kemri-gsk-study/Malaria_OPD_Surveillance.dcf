@@ -1,0 +1,10 @@
+name: Malaria_OPD_Surveillance
+title: Malaria_OPD_Surveillance
+username: kemri-gsk-study
+account: kemri-gsk-study
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17541884
+bundleId: 12812522
+url: https://kemri-gsk-study.shinyapps.io/Malaria_OPD_Surveillance/
+version: 1
